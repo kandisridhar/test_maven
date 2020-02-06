@@ -13,7 +13,7 @@
 	</properties>
 	
 	<build>
-		<finalName>hello</finalName>
+		<finalName>sridhar</finalName>
 		
 		<plugins>
 			<plugin>
